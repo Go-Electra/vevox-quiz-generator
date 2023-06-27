@@ -1,0 +1,954 @@
+[
+  {
+    "question": "Quel est le facteur d'augmentation de vitesse entre USB 2 et USB 3 (derniere versions) ?",
+    "answers": [
+      {
+        "label": "x40",
+        "good": true
+      },
+      {
+        "label": "x30"
+      },
+      {
+        "label": "x20"
+      },
+      {
+        "label": "x10"
+      }
+    ],
+    "comment": ""
+  },
+  {
+    "question": "Quel est le langage utilisé par Minecraft ?",
+    "answers": [
+      {
+        "label": "Java",
+        "good": true
+      },
+      {
+        "label": "C++"
+      },
+      {
+        "label": "Python"
+      },
+      {
+        "label": "Rust"
+      }
+    ],
+    "comment": ""
+  },
+  {
+    "question": "Je ne suis pas un navigateur Web",
+    "answers": [
+      {
+        "label": "Baidu"
+      },
+      {
+        "label": "Lynx"
+      },
+      {
+        "label": "Galileo",
+        "good": true
+      },
+      {
+        "label": "Netscape"
+      }
+    ],
+    "comment": "Baidu => navigateur chinois, lynx => navigateur textuel, Netscape => n'existe plus"
+  },
+  {
+    "question": "En HTML, Une liste ordonnée peut être représentée par",
+    "answers": [
+      {
+        "label": "dd"
+      },
+      {
+        "label": "ol",
+        "good": true
+      },
+      {
+        "label": "li"
+      },
+      {
+        "label": "ul"
+      }
+    ],
+    "comment": "dd => description"
+  },
+  {
+    "question": "Quel est le numéro de port pour HTTPS",
+    "answers": [
+      {
+        "label": "8080"
+      },
+      {
+        "label": "22"
+      },
+      {
+        "label": "80"
+      },
+      {
+        "label": "443",
+        "good": true
+      }
+    ],
+    "comment": "22 => SSH, 80 => HTTP, 8080 => second server web"
+  },
+  {
+    "question": "Un virus informatique qui attaque activement un ou plusieurs programmes anti-virus dans le but d’empêcher sa détection est un",
+    "answers": [
+      {
+        "label": "Trojan"
+      },
+      {
+        "label": "Ransomeware"
+      },
+      {
+        "label": "Ver"
+      },
+      {
+        "label": "Rétrovirus",
+        "good": true
+      }
+    ],
+    "comment": "ver => se reproduit et se propage"
+  },
+  {
+    "question": "Quelle fonctionnalité du cloud computing permet au service de changer de taille ou de volume afin de répondre aux besoins des utilisateurs ?",
+    "answers": [
+      {
+        "label": "Performance"
+      },
+      {
+        "label": "Scalabilité",
+        "good": true
+      },
+      {
+        "label": "Résilience"
+      },
+      {
+        "label": "High Availability"
+      }
+    ],
+    "comment": ""
+  },
+  {
+    "question": "Linux: Quelles commandes utiliser pour compter le nombre de caractères dans un fichier ?",
+    "answers": [
+      {
+        "label": "wc",
+        "good": true
+      },
+      {
+        "label": "awk"
+      },
+      {
+        "label": "grep"
+      },
+      {
+        "label": "count"
+      }
+    ],
+    "comment": "cut => filtrage de textes, awk => recherche et transformation de textes, grep => filtre"
+  },
+  {
+    "question": "Quelle est la derniere version d'USB",
+    "answers": [
+      {
+        "label": "USB 5"
+      },
+      {
+        "label": "USB 3.2"
+      },
+      {
+        "label": "USB 4 v2",
+        "good": true
+      },
+      {
+        "label": "USB 3.3"
+      }
+    ],
+    "comment": ""
+  },
+  {
+    "question": "Quel est l’objet qui se trouve dans TOP de la racine en JavaScript ?",
+    "answers": [
+      {
+        "label": "top"
+      },
+      {
+        "label": "url"
+      },
+      {
+        "label": "window",
+        "good": true
+      },
+      {
+        "label": "document"
+      }
+    ],
+    "comment": ""
+  },
+  {
+    "question": "Comment écrire un commentaire en CSS ?",
+    "answers": [
+      {
+        "label": "<!-- commentaire -->"
+      },
+      {
+        "label": "/* commentaire */",
+        "good": true
+      },
+      {
+        "label": "// commentaire"
+      },
+      {
+        "label": "# commentaire"
+      }
+    ],
+    "comment": ""
+  },
+  {
+    "question": "Qu'est-ce qu'un 'spider' (ou 'crawler') ?",
+    "answers": [
+      {
+        "label": "un type de pirate informatique"
+      },
+      {
+        "label": "Un virus informatique"
+      },
+      {
+        "label": "un mail de phishing"
+      },
+      {
+        "label": "Un programme qui scan les sites Web",
+        "good": true
+      }
+    ],
+    "comment": ""
+  },
+  {
+    "question": "Le Ruby est écrit en",
+    "answers": [
+      {
+        "label": "Basic"
+      },
+      {
+        "label": "Assembleur"
+      },
+      {
+        "label": "Binaire"
+      },
+      {
+        "label": "C",
+        "good": true
+      }
+    ],
+    "comment": ""
+  },
+  {
+    "question": "CSS: Je peux gerer le chevauchement d'éléments avec la propriété",
+    "answers": [
+      {
+        "label": "z-index",
+        "good": true
+      },
+      {
+        "label": "r-index"
+      },
+      {
+        "label": "d-index"
+      },
+      {
+        "label": "s-index"
+      }
+    ],
+    "comment": ""
+  },
+  {
+    "question": "Quel est l'acronyme de JSON ?",
+    "answers": [
+      {
+        "label": "JavaScript Object Notation",
+        "good": true
+      },
+      {
+        "label": "Joint Schema Oriented Notation"
+      },
+      {
+        "label": "Java Sementic Object Naming"
+      },
+      {
+        "label": "Jackson Simplified Object Notation"
+      }
+    ],
+    "comment": ""
+  },
+  {
+    "question": "Je ne suis pas un interpreteur Ruby",
+    "answers": [
+      {
+        "label": "JRuby"
+      },
+      {
+        "label": "Ruby.NET"
+      },
+      {
+        "label": "MRI"
+      },
+      {
+        "label": "Ruby4Windows",
+        "good": true
+      }
+    ],
+    "comment": ""
+  },
+  {
+    "question": "Je ne suis pas un Design Principle",
+    "answers": [
+      {
+        "label": "YAGNI"
+      },
+      {
+        "label": "SRP"
+      },
+      {
+        "label": "ABC",
+        "good": true
+      },
+      {
+        "label": "DRY"
+      }
+    ],
+    "comment": "YAGNI => You aren't gonna need it, SRP => Single Responsability Principle ('S' de SOLID), ABC => AAA (Arrange/Act/assert)"
+  },
+  {
+    "question": "Quelle commande est utilisée pour afficher l’espace de disque d’un répertoire spécifique ?",
+    "answers": [
+      {
+        "label": "dds"
+      },
+      {
+        "label": "ds"
+      },
+      {
+        "label": "du",
+        "good": true
+      },
+      {
+        "label": "dd"
+      }
+    ],
+    "comment": "dd => copie de blocs (disque), du => disk usage"
+  },
+
+  {
+    "question": "Quelle catégorie ne trouve-t-on pas en Unicode ?",
+    "answers": [
+      {
+        "label": "drapeaux"
+      },
+      {
+        "label": "animaux"
+      },
+      {
+        "label": "symboles monétaires"
+      },
+      {
+        "label": "couleurs",
+        "good": true
+      }
+    ],
+    "comment": ""
+  },
+  {
+    "question": "Qui est le createur de Ruby ?",
+    "answers": [
+      {
+        "label": "Hiroshi Sugimoto"
+      },
+      {
+        "label": "Hiroshi Senju"
+      },
+      {
+        "label": "Nobuo Uematso"
+      },
+      {
+        "label": "Yukihiro Matsumoto",
+        "good": true
+      }
+    ],
+    "comment": "Hiroshi Senju => Peintre, Hiroshi Sugimoto => Photographe"
+  },
+  {
+    "question": "Je suis la lib WebServer par defaut de Ruby",
+    "answers": [
+      {
+        "label": "Thin"
+      },
+      {
+        "label": "Unicorn"
+      },
+      {
+        "label": "WebRick",
+        "good": true
+      },
+      {
+        "label": "Puma"
+      }
+    ],
+    "comment": "Puma => Rails"
+  },
+  {
+    "question": "Je ne suis pas un 'case style'",
+    "answers": [
+      {
+        "label": "kebabcase"
+      },
+      {
+        "label": "camelcase"
+      },
+      {
+        "label": "undercase",
+        "good": true
+      },
+      {
+        "label": "pascalcase"
+      }
+    ],
+    "comment": "kebabcase => aka 'dash-case', pascalcase => camelcase avec 1ere lettre en MAJ"
+  },
+  {
+    "question": "Je ne suis pas une distribution dérivée de Debian",
+    "answers": [
+      {
+        "label": "Fedora",
+        "good": true
+      },
+      {
+        "label": "Mint"
+      },
+      {
+        "label": "PureOS"
+      },
+      {
+        "label": "Ubuntu"
+      }
+    ],
+    "comment": ""
+  },
+  {
+    "question": "Je ne suis pas un type d'API",
+    "answers": [
+      {
+        "label": "REST"
+      },
+      {
+        "label": "RPC"
+      },
+      {
+        "label": "Soap"
+      },
+      {
+        "label": "NDD",
+        "good": true
+      }
+    ],
+    "comment": ""
+  },
+  {
+    "question": "Je ne suis pas une lib Ruby HTTPClient",
+    "answers": [
+      {
+        "label": "Faraday"
+      },
+      {
+        "label": "Nokogiri",
+        "good": true
+      },
+      {
+        "label": "HttpParty"
+      },
+      {
+        "label": "Excon"
+      }
+    ],
+    "comment": "Nokogiri => parser xml html"
+  },
+  {
+    "question": "Je ne suis pas un langage de programmation Orienté Objet",
+    "answers": [
+      {
+        "label": "VisualBasic"
+      },
+      {
+        "label": "Smalltalk"
+      },
+      {
+        "label": "C",
+        "good": true
+      },
+      {
+        "label": "PHP"
+      }
+    ],
+    "comment": ""
+  },
+  {
+    "question": "Regex: Je ne suis pas un flag",
+    "answers": [
+      {
+        "label": "'i' : case insensibility"
+      },
+      {
+        "label": "'m' : multiline"
+      },
+      {
+        "label": "'g' : global"
+      },
+      {
+        "label": "'a' : accentuated characters",
+        "good": true
+      }
+    ],
+    "comment": ""
+  },
+  {
+    "question": "Je ne suis pas un ORM Ruby",
+    "answers": [
+      {
+        "label": "DataMapper"
+      },
+      {
+        "label": "ActiveRecord"
+      },
+      {
+        "label": "Doctrine",
+        "good": true
+      },
+      {
+        "label": "Sequel"
+      }
+    ],
+    "comment": "Doctrine => ORM PHP"
+  },
+  {
+    "question": "Je ne suis pas un package manager systeme",
+    "answers": [
+      {
+        "label": "nix"
+      },
+      {
+        "label": "snap"
+      },
+      {
+        "label": "ramp",
+        "good": true
+      },
+      {
+        "label": "pacman"
+      }
+    ],
+    "comment": "ramp ?? rpm"
+  },
+  {
+    "question": "Je ne sais pas gerer les bugs applicatifs (services SaaS)",
+    "answers": [
+      {
+        "label": "DataDog"
+      },
+      {
+        "label": "BugSnag"
+      },
+      {
+        "label": "HoneyBadger"
+      },
+      {
+        "label": "Prometheus",
+        "good": true
+      }
+    ],
+    "comment": "Prometheus => Monitoring system & time series database"
+  },
+  {
+    "question": "Je ne suis pas un langage de programmation",
+    "answers": [
+      {
+        "label": "AutoHotKey"
+      },
+      {
+        "label": "BrainFuck"
+      },
+      {
+        "label": "JShell",
+        "good": true
+      },
+      {
+        "label": "D"
+      }
+    ],
+    "comment": "JShell => outil por faire du java en ligne de commandes, BrainFuck => +>>>>>++++....<+++, D => Successeur du C"
+  },
+  {
+    "question": "Le signal envoyé à un processus lorsque la touche « Ctrl-C » est enfoncée est",
+    "answers": [
+      {
+        "label": "KILL"
+      },
+      {
+        "label": "TERM"
+      },
+      {
+        "label": "TSTP"
+      },
+      {
+        "label": "INT",
+        "good": true
+
+      }
+    ],
+    "comment": "TSTP => temporary stop (CTRL+Z), INT => Interrupt (CTRL+C), TERM => kill, KILL => kill -9"
+  },
+  {
+    "question": "Regex: Je ne suis pas un quantifier",
+    "answers": [
+      {
+        "label": "\\w{4}"
+      },
+      {
+        "label": "\\w+"
+      },
+      {
+        "label": "\\w[7]",
+        "good": true
+      },
+      {
+        "label": "\\w*?"
+      }
+    ],
+    "comment": "\\w*? lazy"
+  },
+  {
+    "question": "L’art de déchiffrer des messages codés est connu comme",
+    "answers": [
+      {
+        "label": "Cryptanalyse",
+        "good": true
+      },
+      {
+        "label": "Numérologie"
+      },
+      {
+        "label": "Cryptologie"
+      },
+      {
+        "label": "Cryptographie"
+      }
+    ],
+    "comment": "Cryptographie => chiffrer des messages, Cryptologie => science du secret (cryptographie + Cryptanalyse)"
+  },
+  {
+    "question": "Qu'est ce que le XHTML ?",
+    "answers": [
+      {
+        "label": "Une version sécurisé de HTML"
+      },
+      {
+        "label": "Une version moins strict que le HTML"
+      },
+      {
+        "label": "Une transposition en syntaxe XML de HTML 4",
+        "good": true
+      },
+      {
+        "label": "Une version Open Standard de HTML"
+      }
+    ],
+    "comment": "XHTML => plus strict, HTML est deja Open Standard"
+  },
+  {
+    "question": "Ruby: Je ne suis pas une fonction de Integer",
+    "answers": [
+      {
+        "label": "times"
+      },
+      {
+        "label": "to_roman",
+        "good": true
+      },
+      {
+        "label": "fdiv"
+      },
+      {
+        "label": "modulo"
+      }
+    ],
+    "comment": ""
+  },
+  {
+    "question": "Quelle commandes utiliser pour déterminer le chemin d’un fichier exécutable ?",
+    "answers": [
+      {
+        "label": "what"
+      },
+      {
+        "label": "which",
+        "good": true
+      },
+      {
+        "label": "pathof"
+      },
+      {
+        "label": "where"
+      }
+    ],
+    "comment": ""
+  },
+  {
+    "question": "Je ne suis pas un verbe HTTP",
+    "answers": [
+      {
+        "label": "HEAD"
+      },
+      {
+        "label": "CONNECT"
+      },
+      {
+        "label": "TRACE"
+      },
+      {
+        "label": "TAIL",
+        "good": true
+      }
+    ],
+    "comment": "HEAD => GET sans body, CONNECT => tunnel vers le server, TRACE => message de test"
+  },
+  {
+    "question": "Linux: Comment exécuter un processus en arrière-plan ? (en fin de commande)",
+    "answers": [
+      {
+        "label": "|"
+      },
+      {
+        "label": "*"
+      },
+      {
+        "label": "?"
+      },
+      {
+        "label": "&",
+        "good": true
+      }
+    ],
+    "comment": "| => pipe"
+  },
+  {
+    "question": "Je ne suis pas un package manager (language oriented)",
+    "answers": [
+      {
+        "label": "pip"
+      },
+      {
+        "label": "yarn"
+      },
+      {
+        "label": "yum",
+        "good": true
+      },
+      {
+        "label": "gradle"
+      }
+    ],
+    "comment": "pip => python, yarn => nodeJS, gradle => Java, yum => ancien PM system RedHat/Fedora (DNF etant le nouveau basé sur RPM)"
+  },
+  {
+    "question": "Je ne suis pas une unité de stockage",
+    "answers": [
+      {
+        "label": "Gibobyte",
+        "good": true
+      },
+      {
+        "label": "Gibibit"
+      },
+      {
+        "label": "Gigabyte"
+      },
+      {
+        "label": "Gigabit"
+      }
+    ],
+    "comment": "Avant 1998 1GB = 1 073 741 824 octets /// Apres 1998: 1 GB = 1 000 000 000 bytes, 1 GiB = 1 073 741 824 bytes"
+  },
+  {
+    "question": "Quel est le message du Code HTTP 418 ?",
+    "answers": [
+      {
+        "label": "Unrecoverable Error"
+      },
+      {
+        "label": "I'm a teepot",
+        "good": true
+      },
+      {
+        "label": "Gone"
+      },
+      {
+        "label": "Method Not Allowed"
+      }
+    ],
+    "comment": "Unrecoverable Error => 456, Gone => 410, Method Not Allowed => 405"
+  },
+  {
+    "question": "Combien y a-t-il d'adresses IPv4 ?",
+    "answers": [
+      {
+        "label": "~4 trilliards"
+      },
+      {
+        "label": "~4 mille"
+      },
+      {
+        "label": "~4 milliards"
+      },
+      {
+        "label": "~4 millions",
+        "good": true
+      }
+    ],
+    "comment": "256^4, 4 294 967 296"
+  },
+  {
+    "question": "Que veut dire 'GIT' ?",
+    "answers": [
+      {
+        "label": "3 lettres au hasard pour faire une commande unix unique"
+      },
+      {
+        "label": "'stupid'"
+      },
+      {
+        "label": "a été choisi sans sens définit",
+        "good": true
+      },
+      {
+        "label": "acronyme de Global Information Tracker"
+      }
+    ],
+    "comment": "https://initialcommit.com/blog/How-Did-Git-Get-Its-Name"
+  },
+  {
+    "question": "Cloud Computing: Quel est l'acronyme de WAF",
+    "answers": [
+      {
+        "label": "Windows Access Facility"
+      },
+      {
+        "label": "WAFer"
+      },
+      {
+        "label": "Web Application Firewall",
+        "good": true
+      },
+      {
+        "label": "With All Faults"
+      }
+    ],
+    "comment": ""
+  },
+  {
+    "question": "Je ne suis pas un niveau de log rails",
+    "answers": [
+      {
+        "label": "TRACE"
+      },
+      {
+        "label": "UNKNOWN"
+      },
+      {
+        "label": "FATAL"
+      },
+      {
+        "label": "NORMAL",
+        "good": true
+      }
+    ],
+    "comment": ""
+  },
+  {
+    "question": "Je ne suis pas un Cloud Provider",
+    "answers": [
+      {
+        "label": "OpenStack"
+      },
+      {
+        "label": "Apple Cloud",
+        "good": true
+      },
+      {
+        "label": "Alibaba Cloud"
+      },
+      {
+        "label": "OVH Cloud"
+      }
+    ],
+    "comment": "OpenStack => cloud privé"
+  },
+  {
+    "question": "Je ne suis pas un APM (Application Performance Manager)",
+    "answers": [
+      {
+        "label": "NewRelic"
+      },
+      {
+        "label": "AppOptics"
+      },
+      {
+        "label": "Dynatrace"
+      },
+      {
+        "label": "OpsGenie",
+        "good": true
+      }
+    ],
+    "comment": "OpsGenie => plateforme de gestion d'incidents"
+  },
+  {
+    "question": "Quel protocole fournit un service de messagerie entre différents hôtes ?",
+    "answers": [
+      {
+        "label": "FTP"
+      },
+      {
+        "label": "TELNET"
+      },
+      {
+        "label": "SMTP",
+        "good": true
+      },
+      {
+        "label": "SNMP"
+      }
+    ],
+    "comment": "FTP => transfert de fichiers, TELNET => communcation avec ordinateurs distants, SNMP => administration reseau"
+  },
+  {
+    "question": "Ruby: Je ne suis pas une fonction d'Enumerable",
+    "answers": [
+      {
+        "label": "cycle"
+      },
+      {
+        "label": "zip"
+      },
+      {
+        "label": "chunk"
+      },
+      {
+        "label": "split",
+        "good": true
+      }
+    ],
+    "comment": ""
+  }
+]

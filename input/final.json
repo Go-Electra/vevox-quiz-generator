@@ -1,0 +1,39 @@
+[
+  {
+    "question": "Ce quiz vous a-t-il plû ?",
+    "exclude": true,
+    "answers": [
+      {
+        "label": "Pas du tout"
+      },
+      {
+        "label": "Mouais"
+      },
+      {
+        "label": "Plutôt"
+      },
+      {
+        "label": "Enormément",
+        "good": true
+      }
+    ],
+    "comment": ""
+  },
+  {
+    "question": "Ce quiz vous a semblé",
+    "exclude": true,
+    "answers": [
+      {
+        "label": "Trop difficile"
+      },
+      {
+        "label": "Nickel",
+        "good": true
+      },
+      {
+        "label": "Trop facile"
+      }
+    ],
+    "comment": ""
+  }
+]

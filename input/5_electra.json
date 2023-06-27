@@ -1,0 +1,97 @@
+[
+  {
+    "question": "Quelle est la date de création d'Electra ? (société.com) ",
+    "answers": [
+      {
+        "label": "le 1er mars 2021"
+      },
+      {
+        "label": "le 11 novembre 2020",
+        "good": true
+      },
+      {
+        "label": "le 24 avril 2020"
+      },
+      {
+        "label": "le 8 aout 2019"
+      }
+    ],
+    "comment": ""
+  },
+  {
+    "question": "Combien de co-fondateurs ont fondé Electra ?",
+    "answers": [
+      {
+        "label": "3",
+        "good": true
+      },
+      {
+        "label": "2"
+      },
+      {
+        "label": "4"
+      },
+      {
+        "label": "5"
+      }
+    ],
+    "comment": "Aurélien de Meaux, Augustin Derville et Julien Belliato"
+  },
+  {
+    "question": "A quelle adresse mail les demandes presse doivent-elles être envoyées ?",
+    "answers": [
+      {
+        "label": "contact@go-electra.com"
+      },
+      {
+        "label": "presse@go-electra.com"
+      },
+      {
+        "label": "hello@go-electra.com",
+        "good": true
+      },
+      {
+        "label": "samira@go-electra.com"
+      }
+    ],
+    "comment": ""
+  },
+  {
+    "question": "Recemment Electra a établi un partenaria avec",
+    "answers": [
+      {
+        "label": "G7",
+        "good": true
+      },
+      {
+        "label": "Ionity"
+      },
+      {
+        "label": "Hertz"
+      },
+      {
+        "label": "Tesla"
+      }
+    ],
+    "comment": ""
+  },
+  {
+    "question": "Je ne suis pas un type de connecteur",
+    "answers": [
+      {
+        "label": "CHAdeMO"
+      },
+      {
+        "label": "CCS"
+      },
+      {
+        "label": "Type2"
+      },
+      {
+        "label": "UltraS7",
+        "good": true
+      }
+    ],
+    "comment": "UltraS7 n'existe pas"
+  }
+]
